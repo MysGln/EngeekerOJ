@@ -1,0 +1,7 @@
+.DS_Store
+*.log
+*.typ~
+build/
+out/
+__pycache__/
+*.pyc
